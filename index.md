@@ -12,7 +12,7 @@ path: home
 
 Ciberpath es un proyecto que busca crear **rutas de conocimiento** para guiar a profesionales de ciberseguridad a tomar el camino que mejor se adapte a sus gustos y necesidades.
 
-Las rutas son creadas, revisadas y validadas por **profesionales** con mucha experiencia en su área. Tu también puedes ayudarnos a mejorar el proyecto a través de GitHub. Solo necesitas 👊 [Empezar a participar](https://github.com/dan-breu/ciberpath){:target="\_blank"}
+Las rutas son creadas, revisadas y validadas por **profesionales** con mucha experiencia en su área. Tu también puedes ayudarnos a mejorar el proyecto participando en nuestro grupo de Discord 👊 [Empezar a participar](https://discord.com/invite/ddrQ2VSj){:target="\_blank"}
 
 ## Roles Disponibles
 

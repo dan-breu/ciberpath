@@ -10,7 +10,7 @@ path: netsec
 
 El ingeniero de Ciberseguridad de red es uno de los miembros vitales de cualquier organización. Es un profesional que participa en el posicionamiento, la configuración, el aprovisionamiento y la administración de varias piezas de hardware y software relacionados con la red y la seguridad.
 
-Los ingenieros de Ciberseguridad de red generalmente están involucrados en el aspecto de seguridad del sistema de redes. Proteger la red de la organización de acuerdo con las metas u objetivos del negocio. 👊 [Empieza a participar](https://github.com/dan-breu/ciberpath){:target="\_blank"}
+Los ingenieros de Ciberseguridad de red generalmente están involucrados en el aspecto de seguridad del sistema de redes. Proteger la red de la organización de acuerdo con las metas u objetivos del negocio. 👊 [¿Quieres Aportar, Únete a nuestro grupo en Discord?](https://discord.com/invite/ddrQ2VSj){:target="\_blank"}
 
 Nivel de profundización:
 Básico <i class="fa fa-flag basic"></i>
