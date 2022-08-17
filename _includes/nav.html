@@ -1,9 +1,9 @@
 <nav class="nav">
 	<ul class="nav-list">
 		<a href="/"><li {% if page.path == 'home' %} class="li-active" {% endif %}> <i class="fa fa-home"></i> Inicio</li></a>
-		<a href="./roles"><li {% if page.path == 'roles' %} class="li-active" {% endif %}> <i class="fa fa-list"></i> Roles</li></a>
-		<a href="./contributors"><li {% if page.path == 'contributors' %} class="li-active" {% endif %}> <i class="fa fa-users"></i> Contribuidores</li></a>
-		<a href="./sponsors"><li {% if page.path == 'sponsors' %} class="li-active" {% endif %}> <i class="fa fa-rocket"></i> Patrocinadores</li></a>
-		<a href="./about"><li {% if page.path == 'about' %} class="li-active" {% endif %}> <i class="fa fa-info"></i> Nosotros</li></a>
+		<a href="{{ relative_url }}/roles"><li {% if page.path == 'roles' %} class="li-active" {% endif %}> <i class="fa fa-list"></i> Roles</li></a>
+		<a href="{{ relative_url }}/contributors"><li {% if page.path == 'contributors' %} class="li-active" {% endif %}> <i class="fa fa-users"></i> Contribuidores</li></a>
+		<a href="{{ relative_url }}/sponsors"><li {% if page.path == 'sponsors' %} class="li-active" {% endif %}> <i class="fa fa-rocket"></i> Patrocinadores</li></a>
+		<a href="{{ relative_url }}/about"><li {% if page.path == 'about' %} class="li-active" {% endif %}> <i class="fa fa-info"></i> Nosotros</li></a>
 	</ul>
 </nav>
