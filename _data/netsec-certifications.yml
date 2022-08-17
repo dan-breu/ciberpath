@@ -1,0 +1,29 @@
+- title: CCNA
+  price: $ 300
+  description: Cisco Certified Network Associate
+  link: https://cisco.com
+  premium: yes
+
+- title: CompTIA Network+
+  price: $ 196
+  description: Cisco Certified Network Associate
+  link: https://www.comptia.org/certifications/network
+  premium: no
+
+- title: Fortinet NSE4
+  price: $ 400
+  description: Fortinet Network Security Expert 4
+  link: https://training.fortinet.com/local/staticpage/view.php?page=nse_4
+  premium: no
+
+- title: Palo Alto PCNSE
+  price: $ 160
+  description: Palo Alto Networks Certified Network Security Engineer (PCNSE)
+  link: https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-engineer
+  premium: no
+
+- title: Checkpoint CCSA
+  price: $ 160
+  description: Certifícate en Check Point Certified Administrator (CCSA)
+  link: https://training-certifications.checkpoint.com/#/courses/Security%20Administration%20R81.1%20(CCSA)
+  premium: no

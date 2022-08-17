@@ -1,0 +1,107 @@
+I"Y<h1 id="-ingeniero-en-seguridad-de-la-información">🎓 Ingeniero en Seguridad de la Información</h1>
+
+<p>Descripción del Rol. 👊 <a href="https://github.com/dan-breu/ciberpath" target="\_blank">Empieza a participar</a></p>
+
+<p>Nivel de profundización:
+Básico <i class="fa fa-flag basic"></i>
+Intermedio <i class="fa fa-flag intermediate"></i>
+Avanzando <i class="fa fa-flag advanced"></i></p>
+
+<h2 id="-ruta"><i class="fa fa-map-marker fa-2"></i> Ruta</h2>
+
+<section id="timeline" class="timeline-container">
+<!-- Network Basics -->
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Fundamentos de Redes
+			<i class="fa fa-flag basic"></i>
+		</h2>
+
+		<ul class="content-skills">
+			<li>Modelo OSI</li>
+			<li>Redes Lan</li>
+			<li>Enrutamiento</li>
+			<li>Protocolos de Red</li>
+			<li>Wireless</li>
+		</ul>
+	</div>
+</div>
+
+
+</section>
+
+<h2 id="-contribuidores">👨🏻‍💻 Contribuidores</h2>
+
+<p>Personas que con su conocimiento y experiencia ayudaron a mejorar la ruta 👏.</p>
+<div id="contributors" class="contributors-box">
+	 
+	<div class="tooltip top">
+		<a href="https://www.linkedin.com/in/vasco-talavera/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGLAdXVvyx2ig/profile-displayphoto-shrink_400_400/0/1521837560515?e=1666224000&amp;v=beta&amp;t=TJCt7PeigXQkEYnKKFrW5zUvOBPO0rVjbczzweEUvm4" /></a>
+		<span class="tiptext">Vasco Talavera</span>
+	</div>
+	
+	<div class="tooltip top">
+		<a href="https://danbreu.me" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEKoNu0GVQ6cQ/profile-displayphoto-shrink_400_400/0/1651021218620?e=1665014400&amp;v=beta&amp;t=uvXmEe_OfGVRRn-vB5hrDbZRBDnQ-PJunnQhUKSbtuk" /></a>
+		<span class="tiptext">Danilo Briceño</span>
+	</div>
+	 
+</div>
+
+<h2 id="-ofertas-laborales">👉 Ofertas Laborales</h2>
+
+<ul class="jobs">
+	 
+	<a href="https://gtw-landing.krowdy.com/job/62f566722b45ef0007b9e7d1/publication/0" target="_blank">
+		<li class="listing ">
+			<div class="image_wrapper">
+				<img src="https://krowdy.s3.amazonaws.com/company/5deebeee49ad43003abf3c51/2020-02-17T12-21-50-172Zkrowdy_logo.png" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Analista Jr. de Seguridad de la Información</span>
+				<span class="job_info">Michael Page <span>&bull;</span> Lima
+					<span>&bull;</span>TBD</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	 
+</ul>
+
+<h2 id="️-certificaciones-relacionadas">✍️ Certificaciones Relacionadas</h2>
+
+<div class="cards">
+	  
+	<article class="information card">
+		<h2 class="title">CISA</h2>
+		<p class="desc">Cisco Certified Network Associate</p>
+		<span class="tag">$ 350</span>
+		<span class="button">
+			<a href="https://cisco.com" target="_blank">Ver más</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+	<article class="information card">
+		<h2 class="title">CompTIA Security+</h2>
+		<p class="desc">Cisco Certified Network Associate</p>
+		<span class="tag">$ 196</span>
+		<span class="button">
+			<a href="https://cisco.com" target="_blank">Ver más</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	 
+</div>
+
+:ET

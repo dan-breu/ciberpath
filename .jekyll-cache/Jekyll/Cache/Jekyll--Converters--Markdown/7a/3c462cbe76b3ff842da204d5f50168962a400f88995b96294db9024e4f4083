@@ -1,0 +1,556 @@
+I"�:<h1 id="-ingeniero-en-seguridad-de-la-información">🎓 Ingeniero en Seguridad de la Información</h1>
+
+<p>Descripción del Rol. 👊 <a href="https://github.com/dan-breu/ciberpath" target="\_blank">Empieza a participar</a></p>
+
+<p>Nivel de profundización:
+Básico <i class="fa fa-flag basic"></i>
+Intermedio <i class="fa fa-flag intermediate"></i>
+Avanzando <i class="fa fa-flag advanced"></i></p>
+
+<h2 id="-ruta"><i class="fa fa-map-marker fa-2"></i> Ruta</h2>
+
+<section id="timeline" class="timeline-container">
+<!-- Network Basics -->
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Fundamentos de Redes
+			<i class="fa fa-flag basic"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>Modelo OSI</li>
+			<li>Redes Lan</li>
+			<li>Enrutamiento</li>
+			<li>Protocolos de Red</li>
+			<li>Wireless</li>
+			<li>Redes Cloud</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Network Basics -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Servicios de Red
+			<i class="fa fa-flag basic"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>DHCP</li>
+			<li>DNS</li>
+			<li>NAT</li>
+			<li>NTP</li>
+			<li>EMAIL</li>
+			<li>QoS</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Operating Systems Basics -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Sistemas Operativos
+			<i class="fa fa-flag basic"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>
+				Linux
+				<ul>
+					<li>Sistema de Archivos</li>
+					<li>Permisos de Archivos</li>
+					<li>Comandos Básicos</li>
+					<li>Scripts en Bash</li>
+				</ul>
+			</li>
+
+			<li>
+				Windows
+				<ul>
+					<li>Sistema de Archivos</li>
+					<li>Directorio Activo</li>
+					<li>Políticas de Grupo</li>
+					<li>Comandos Básicos</li>
+					<li>Powershell</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Principles -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Principios de la Seguridad
+			<i class="fa fa-flag intermediate"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>Confidencialidad</li>
+			<li>Integridad</li>
+			<li>No Repudio</li>
+			<li>Seguridad Positiva</li>
+			<li>Seguridad Negativa</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Identity and Access -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Identidad y Accesos
+			<i class="fa fa-flag basic"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>Principio Mínimo Privilegio</li>
+			<li>
+				AAA
+				<ul>
+					<li>Identificación</li>
+					<li>Autenticación</li>
+					<li>Autorización</li>
+				</ul>
+			</li>
+			<li>Perfilamiento de Accesos</li>
+			<li>
+				Métodos de Autenticación
+				<ul>
+					<li>Autenticación Multifactor</li>
+					<li>Tarjetas de Accesos</li>
+					<li>Token/Softoken</li>
+					<li>Biometría</li>
+				</ul>
+			</li>
+			<li>Gestión de Cuentas Privilegiadas</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- threats and vuln -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Amenazas y Vulnerabilidades
+			<i class="fa fa-flag intermediate"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>CyberKillChain</li>
+			<li>Superficie de Ataque</li>
+			<li>
+				Software Malicioso
+				<ul>
+					<li>Virus</li>
+					<li>Troyanos</li>
+					<li>Ransomware</li>
+					<li>Drive By Download</li>
+				</ul>
+			</li>
+			<li>SIM Swapping</li>
+			<li>Insiders</li>
+			<li>DOS &amp; DDOS</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Data Secure -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Aseguramiento de Datos
+			<i class="fa fa-flag intermediate"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>Ciclo de Vida de los Datos</li>
+			<li>Clasificación de Información</li>
+			<li>
+				Prevención de Fuga de Información
+				<ul>
+					<li>Introducción a DLP de Red</li>
+					<li>Introducción a DLP de Endpoint</li>
+					<li>Introducción a CASB</li>
+				</ul>
+			</li>
+			<li>Privacidad de Datos</li>
+			<li>Remanencia de Datos</li>
+			<li>Respaldo de Datos</li>
+			<li>Modelo de Repositorios</li>
+			<li>Manipulación de Datos</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- encryption -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Cifrado
+			<i class="fa fa-flag basic"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>Cifrado Simétrico &amp; Asimétrico</li>
+			<li>Intercambio de Llaves</li>
+			<li>Cifrado de Clave Pública</li>
+			<li>Cifrado de Archivos, directorio y discos</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- encryption -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Ingeniería Social
+			<i class="fa fa-flag advanced"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>
+				Phishing
+				<ul>
+					<li>Spear Pishing</li>
+					<li>Whaling</li>
+					<li>Vishing</li>
+					<li>Smishing</li>
+				</ul>
+			</li>
+			<li>BEC</li>
+			<li>OSINT</li>
+			<li>
+				Técnicas de Engaño
+				<ul>
+					<li>Envenenamiento Cache</li>
+					<li>Envenenamiento DNS</li>
+					<li>Watering Hole</li>
+					<li>Pretexting</li>
+					<li>Pretexting</li>
+					<li>Baiting</li>
+					<li>Tailgating</li>
+					<li>USB Olvidados</li>
+				</ul>
+			</li>
+			<li>Pruebas de Penetración</li>
+			<li>
+				Tecnologías
+				<ul>
+					<li>SIEM</li>
+					<li>UEBA</li>
+					<li>Simuladores</li>
+				</ul>
+			</li>
+			<li>Programas de Concientización</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- forensic -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Informática Forense
+			<i class="fa fa-flag basic"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>Cadena de Custodia</li>
+			<li>Evidencias Digitales</li>
+			<li>Principales Leyes</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- audit -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Auditoría de Sistemas
+			<i class="fa fa-flag basic"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>
+				Proceso de Auditoría
+				<ul>
+					<li>No Conformidades</li>
+					<li>Oportunidades de Mejora</li>
+					<li>Observaciones</li>
+				</ul>
+			</li>
+			<li>
+				Controles
+				<ul>
+					<li>Detectivos</li>
+					<li>Correctivos</li>
+					<li>Preventivos</li>
+					<li>Compensatorios</li>
+				</ul>
+			</li>
+			<li>Procesos Críticos</li>
+			<li>Revisión de Políticas</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- standards & frameworks -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Estándares y Marcos de Trabajo
+			<i class="fa fa-flag advanced"></i>
+		</h2>
+		<ul class="content-skills">
+			<li>ISO 27001</li>
+			<li>ISO 27002</li>
+			<li>NIST CSF</li>
+			<li>PCI DSS 4.0</li>
+			<li>ISO 27032</li>
+			<li>ISO 31000</li>
+			<li>ISO 22301</li>
+			<li>
+				LPDP
+				<ul>
+					<li>GDPR</li>
+				</ul>
+			</li>
+			<li>Cobit</li>
+			<li>Fundamentos SOX</li>
+		</ul>
+	</div>
+</div>
+
+
+</section>
+
+<h2 id="-contribuidores"><i class="fa fa-users fa-2"></i> Contribuidores</h2>
+
+<p>Personas que con su conocimiento y experiencia ayudaron a mejorar la ruta 👏.</p>
+<div id="contributors" class="contributors-box">
+	 
+	<div class="tooltip top">
+		<a href="https://www.linkedin.com/in/vasco-talavera/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGLAdXVvyx2ig/profile-displayphoto-shrink_400_400/0/1521837560515?e=1666224000&amp;v=beta&amp;t=TJCt7PeigXQkEYnKKFrW5zUvOBPO0rVjbczzweEUvm4" /></a>
+		<span class="tiptext">Vasco Talavera</span>
+	</div>
+	
+	<div class="tooltip top">
+		<a href="https://danbreu.me" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEKoNu0GVQ6cQ/profile-displayphoto-shrink_400_400/0/1651021218620?e=1665014400&amp;v=beta&amp;t=uvXmEe_OfGVRRn-vB5hrDbZRBDnQ-PJunnQhUKSbtuk" /></a>
+		<span class="tiptext">Danilo Briceño</span>
+	</div>
+	 
+</div>
+
+<h2 id="-ofertas-laborales"><i class="fa fa-briefcase fa-2"></i> Ofertas Laborales</h2>
+
+<ul class="jobs">
+	 
+	<a href="https://gtw-landing.krowdy.com/job/62f566722b45ef0007b9e7d1/publication/0" target="_blank">
+		<li class="listing ">
+			<div class="image_wrapper">
+				<img src="https://krowdy.s3.amazonaws.com/company/5deebeee49ad43003abf3c51/2020-02-17T12-21-50-172Zkrowdy_logo.png" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Analista Jr. de Seguridad de la Información</span>
+				<span class="job_info">Michael Page <span>&bull;</span> Remoto
+					<span>&bull;</span>TBD</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	
+	<a href="https://csti.hiringroom.com/jobs/get_vacancy/62a7943bff5ffe58187a2d56?source=linkedinjobs" target="_blank">
+		<li class="listing ">
+			<div class="image_wrapper">
+				<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmVLDVEcHdEQ/company-logo_200_200/0/1580313241633?e=1668643200&amp;v=beta&amp;t=tn-CCbGveraZVPqILAoZkpTYJTifvBVipyYxrFromAo" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Especialista en Seguridad de la Información</span>
+				<span class="job_info">CSTI Corp <span>&bull;</span> Remoto
+					<span>&bull;</span>TBD</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	
+	<a href="https://trabajaenentel.pe/job/LIMA-COORDINADOR%28A%29-DE-SEGURIDAD-DE-INFORMACI%C3%93N/921626000/" target="_blank">
+		<li class="listing ">
+			<div class="image_wrapper">
+				<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHgsztcTw9kww/company-logo_200_200/0/1586799585082?e=1668643200&amp;v=beta&amp;t=hcRFLFQyA_l79iETNcWLk2TWx3Zga0zA14xuSwAjHC0" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Coordinador(a) de Awareness</span>
+				<span class="job_info">Entel Perú <span>&bull;</span> Lima
+					<span>&bull;</span>TBD</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	
+	<a href="https://www.linkedin.com/jobs/view/3167566776" target="_blank">
+		<li class="listing ">
+			<div class="image_wrapper">
+				<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxHH6MUBCp-g/company-logo_200_200/0/1657748902816?e=1668643200&amp;v=beta&amp;t=5A-TTGuUgBAzvo6hHDOb1kobwUKkGw6a_Tiocwa5YkU" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Specialist Information Security Advisor</span>
+				<span class="job_info">Scotiabank <span>&bull;</span> Lima
+					<span>&bull;</span>TBD</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	 
+</ul>
+
+<p><br /></p>
+
+<h2 id="-certificaciones-relacionadas"><i class="fa fa-certificate fa-2"></i> Certificaciones Relacionadas</h2>
+
+<div class="cards">
+	  
+	<article class="information card">
+		<h2 class="title">ISO 27001 Foundation</h2>
+		<p class="desc">ISO/IEC 27001 Foundation</p>
+		<span class="tag">$ 100</span>
+		<span class="button">
+			<a href="https://pecb.com/es/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-foundation" target="_blank">Ver</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+	<article class="information card">
+		<h2 class="title">ISO 31000 Foundation</h2>
+		<p class="desc">Certificado ISO 31000 Fundamentos</p>
+		<span class="tag">$ 250</span>
+		<span class="button">
+			<a href="https://pecb.com/es/education-and-certification-for-individuals/iso-31000/iso-31000-foundation" target="_blank">Ver</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+	<article class="information card">
+		<h2 class="title">ISO 27032 Foundation</h2>
+		<p class="desc">ISO/IEC 27032 Fundamentos</p>
+		<span class="tag">$ 350</span>
+		<span class="button">
+			<a href="https://cisco.com" target="_blank">Ver</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+	<article class="information card">
+		<h2 class="title">CompTIA Security+</h2>
+		<p class="desc">Cisco Certified Network Associate</p>
+		<span class="tag">$ 196</span>
+		<span class="button">
+			<a href="https://cisco.com" target="_blank">Ver</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+	<article class="information card">
+		<h2 class="title">CISA</h2>
+		<p class="desc">Cisco Certified Network Associate</p>
+		<span class="tag">$ 350</span>
+		<span class="button">
+			<a href="https://cisco.com" target="_blank">Ver</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+	<article class="information card">
+		<h2 class="title">CompTIA Security+</h2>
+		<p class="desc">Cisco Certified Network Associate</p>
+		<span class="tag">$ 196</span>
+		<span class="button">
+			<a href="https://cisco.com" target="_blank">Ver</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	 
+</div>
+
+:ET

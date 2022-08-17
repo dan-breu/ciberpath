@@ -1,0 +1,535 @@
+I"];<h1 id="-ingeniero-de-ciberseguridad-de-red">🎓 Ingeniero de Ciberseguridad de Red</h1>
+
+<p>El ingeniero de Ciberseguridad de red es uno de los miembros vitales de cualquier organización. Es un profesional que participa en el posicionamiento, la configuración, el aprovisionamiento y la administración de varias piezas de hardware y software relacionados con la red y la seguridad.</p>
+
+<p>Los ingenieros de Ciberseguridad de red generalmente están involucrados en el aspecto de seguridad del sistema de redes. Proteger la red de la organización de acuerdo con las metas u objetivos del negocio. 👊 <a href="https://github.com/dan-breu/ciberpath" target="\_blank">Empieza a participar</a></p>
+
+<p>Nivel de profundización:
+Básico <i class="fa fa-flag basic"></i>
+Intermedio <i class="fa fa-flag intermediate"></i>
+Avanzando <i class="fa fa-flag advanced"></i></p>
+
+<h2 id="-ruta"><i class="fa fa-map-marker fa-2"></i> Ruta</h2>
+
+<section id="timeline" class="timeline-container">
+
+<!-- OSI -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<!-- <span class="tag">
+			<i class="fa fa-circle" aria-hidden="true"></i>
+		</span> -->
+		<h2>
+			Modelo OSI
+			<i class="fa fa-flag advanced"></i>
+		</h2>
+
+		<ul class="content-skills">
+			<li>
+				<a href="https://www.youtube.com/watch?v=I6qlFo2WyTE" target="_blank">Modelo OSI</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Switching -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Conmutadores <i class="fa fa-flag advanced"></i></h2>
+
+		<!-- <div class="timeline-content-info">
+			<span class="timeline-content-info-sponsor1">
+				<a href="#" target="_blank">Sponsor</a>
+			</span>
+			<span class="timeline-content-info-sponsor2">
+				<a href="#" target="_blank">Sponsor</a>
+			</span>
+		</div> -->
+
+		<!-- <p>Text Sample</p> -->
+		<ul class="content-skills">
+			<li>Subnet de Redes</li>
+			<li>
+				Vlans
+				<ul>
+					<li>
+						<a href="https://ccnadesdecero.es/diseno-jerarquico-de-redes/" target="_blank">
+							Diseño Jerárgico
+						</a>
+					</li>
+				</ul>
+			</li>
+			<li>Trunking (802.1q)</li>
+			<li>LACP</li>
+			<li>
+				<a href="http://redhes.blogspot.com/p/port-security.html" target="_blank">
+					Port Security
+				</a>
+			</li>
+			<li>
+				Spoofing
+				<ul>
+					<li>ARP Spoofing</li>
+					<li>MAC Spoofing</li>
+					<li>IP Spoofing</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Routing -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Enrutamiento <i class="fa fa-flag advanced"></i></h2>
+		<ul class="content-skills">
+			<li>Protocolos TCP &amp; UDP</li>
+			<li>IPv6</li>
+			<li>Estático</li>
+			<li>
+				Dinámico
+				<ul>
+					<li>OSPF</li>
+					<li>BGP</li>
+				</ul>
+			</li>
+			<li>Enrutamiento Basado en Política</li>
+			<li>Enrutamiento inter-vlan</li>
+			<li>Distancia &amp; Prioridades</li>
+			<li>NAT/SNAT</li>
+
+			<li>
+				Control de Acceso a la Red
+				<ul>
+					<li>Lista de Accesos</li>
+					<li>Mapa de Rutas</li>
+					<li>Lista de Prefijos</li>
+				</ul>
+			</li>
+			<li>MPLS</li>
+			<li>QoS</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Wireless -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Redes Inalámbricas <i class="fa fa-flag intermediate"></i></h2>
+		<!-- <div class="timeline-content-info">
+			<span class="timeline-content-info-sponsor1">
+				<a href="#" target="_blank">Sponsor</a>
+			</span>
+			<span class="timeline-content-info-sponsor2">
+				<a href="#" target="_blank">Sponsor</a>
+			</span>
+		</div> -->
+
+		<!-- <p>Text Sample</p> -->
+		<ul class="content-skills">
+			<li>Estándares WLAN</li>
+			<li>Métodos de Autenticación</li>
+			<li>Frecuencias y Bandas</li>
+			<li>Puntos de Acceso</li>
+			<li>Diseño y Análisis de Espectro</li>
+			<li>Detección de AP Falsos</li>
+			<li>Kismet</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Operating System -->
+<!-- Linux -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+
+	<div class="timeline-content">
+		<h2>Linux <i class="fa fa-flag intermediate"></i></h2>
+		<ul class="content-skills">
+			<li>
+				Comandos Generales
+				<ul>
+					<li>Servicios de Red</li>
+					<li>
+						<ul>
+							<li>IPTables</li>
+							<li>Proxy de Red</li>
+							<li>
+								DNS
+								<ul>
+									<li>Arquitectura</li>
+									<li>Cache</li>
+									<li>DNSSEC</li>
+									<li>Envenamiento DNS</li>
+									<li>Amplificación DNS</li>
+								</ul>
+							</li>
+							<li>NTP</li>
+							<li>DHCP</li>
+							<li>HTTP</li>
+							<li>SSH/SFTP</li>
+							<li>
+								VPN
+								<ul>
+									<li>IPSEC</li>
+									<li>L2TP</li>
+									<li>GRE</li>
+								</ul>
+							</li>
+							<li>
+								SMTP
+								<ul>
+									<li>DMARC</li>
+									<li>SPF</li>
+									<li>Open Relay</li>
+									<li>Enumeración de Usuarios</li>
+								</ul>
+							</li>
+							<li>LDAP</li>
+						</ul>
+					</li>
+					<li>Bash Scripting</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Windows -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Windows <i class="fa fa-flag basic"></i></h2>
+		<ul class="content-skills">
+			<li>
+				Windows
+				<ul>
+					<li>
+						Servicios de Red
+						<ul>
+							<li>
+								SMB
+								<ul>
+									<li>Aseguramiento SBM</li>
+									<li>Seguridad NTML</li>
+								</ul>
+							</li>
+							<li>DNS</li>
+							<li>FTP</li>
+							<li>SMB</li>
+							<li>SNMP</li>
+							<li>IIS</li>
+							<li>Directorio Activo</li>
+						</ul>
+					</li>
+					<li>Powershell</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Packet Capture -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Análisis de Paquetes <i class="fa fa-flag advanced"></i></h2>
+		<ul class="content-skills">
+			<li>Wireshark</li>
+			<li>Tcpdump</li>
+			<li>Netcat</li>
+			<li>Scapy</li>
+			<li>Netflow</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Network Firewall -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Firewall de Red <i class="fa fa-flag advanced"></i></h2>
+		<ul class="content-skills">
+			<li>Antimalware</li>
+			<li>Detección de Aplicaciones</li>
+			<li>Análisis de Tráfico Cifrado</li>
+			<li>Filtro de Navegación</li>
+			<li>Detección de Usuarios</li>
+			<li>Alta Redundancia</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- IDS/IPS -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>IDS/IPS <i class="fa fa-flag advanced"></i></h2>
+		<ul class="content-skills">
+			<li>IDS/IPS de Red</li>
+			<li>IDS/IPS de Host</li>
+			<li>Detección de anomalías</li>
+			<li>Creación de firmas</li>
+			<li>Respuesta a ataques de red</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Development -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Programación <i class="fa fa-flag intermediate"></i></h2>
+		<ul class="content-skills">
+			<li>Python</li>
+			<li>GNS3</li>
+			<li>Netmiko</li>
+			<li>Paramiko</li>
+			<li>Jinja2</li>
+			<li>NAPALM</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- SDN -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Redes Definidas por Software <i class="fa fa-flag intermediate"></i></h2>
+		<ul class="content-skills">
+			<li>Openflow</li>
+			<li>Mininet</li>
+			<li>APIs</li>
+			<li>POX</li>
+			<li>Monitoreo Avanzado</li>
+			<li>VNF</li>
+			<li>SDWAN</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Attacks -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Ténicas de Ataque <i class="fa fa-flag intermediate"></i></h2>
+		<ul class="content-skills">
+			<li>
+				<a href="https://www.youtube.com/watch?v=d2MxAR89ePE" target="_blank">
+					Escaneo de Puertos
+				</a>
+			</li>
+			<li>Man in the Middle</li>
+			<li>Nslookup Avanzado</li>
+			<li>Flooding de Tráfico</li>
+			<li>Ataques de Amplificación</li>
+			<li>Ataques tipo Smurf</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- Cloud -->
+
+<div class="timeline-block">
+	<div class="timeline-img"></div>
+	<div class="timeline-content">
+		<h2>Redes Cloud <i class="fa fa-flag basic"></i></h2>
+		<ul class="content-skills">
+			<li>Regiones y Zonas de Disponibilidad</li>
+			<li>VPC</li>
+			<li>Grupos de Seguridad</li>
+			<li>Conexión entre Peers</li>
+			<li>Gateway de Internet</li>
+			<li>Gateway de Transido</li>
+			<li>Balanceadores de Red Cloud</li>
+			<li>DNS Cloud</li>
+			<li>Firewall Cloud</li>
+		</ul>
+	</div>
+</div>
+
+
+</section>
+
+<h2 id="-contribuidores"><i class="fa fa-users fa-2"></i> Contribuidores</h2>
+
+<p>Personas que con su conocimiento y experiencia ayudaron a mejorar la ruta 👏.</p>
+<div id="contributors" class="contributors-box">
+	 
+	<div class="tooltip top">
+		<a href="https://danbreu.me" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEKoNu0GVQ6cQ/profile-displayphoto-shrink_400_400/0/1651021218620?e=1665014400&amp;v=beta&amp;t=uvXmEe_OfGVRRn-vB5hrDbZRBDnQ-PJunnQhUKSbtuk" /></a>
+		<span class="tiptext">Danilo Briceño</span>
+	</div>
+	
+	<div class="tooltip top">
+		<a href="https://www.linkedin.com/in/harold-jonnathan-davila-gamboa-45319841/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHXvY-oZmdcsg/profile-displayphoto-shrink_400_400/0/1648523099379?e=1665014400&amp;v=beta&amp;t=Z4bBGzSDRVL7TIsBMnc5EXrO0xmvfgnRXip6mkXSZfQ" /></a>
+		<span class="tiptext">Harold Dávila</span>
+	</div>
+	
+	<div class="tooltip top">
+		<a href="https://www.linkedin.com/in/joseoroscof/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHuBv5LiVauZQ/profile-displayphoto-shrink_400_400/0/1581489576852?e=1665619200&amp;v=beta&amp;t=kDp1QjMsXOv_gU_aW-3yh1jcI6BTbdRMtpvswIG1jSI" /></a>
+		<span class="tiptext">José Orosco</span>
+	</div>
+	
+	<div class="tooltip top">
+		<a href="https://www.linkedin.com/in/pedro-valenzuela-62822727/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGpS4Ez-MyLkA/profile-displayphoto-shrink_400_400/0/1591966392912?e=1665619200&amp;v=beta&amp;t=M8zruPcRk5wWTwGVyfVQyLofwyYpp3u1RV4eNYMAXws" /></a>
+		<span class="tiptext">Pedro Valenzuela</span>
+	</div>
+	 
+</div>
+
+<h2 id="-ofertas-laborales"><i class="fa fa-briefcase fa-2"></i> Ofertas Laborales</h2>
+
+<ul class="jobs">
+	 
+	<a href="https://ekis.consulting" target="_blank">
+		<li class="listing  premium ">
+			<div class="image_wrapper">
+				<img src="https://pbs.twimg.com/profile_images/1549607896417181697/c29jiX4Q_400x400.jpg" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Descripción del Rol</span>
+				<span class="job_info">Tu Empresa <span>&bull;</span> Lima
+					<span>&bull;</span>S/50K - S/80K</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	
+	<a href="https://www.michaelpage.pe/job-apply/analista-de-redes-y-seguridad/ref/jn-072022-5684352" target="_blank">
+		<li class="listing ">
+			<div class="image_wrapper">
+				<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGs4VsKHY40Lg/company-logo_100_100/0/1656660840647?e=1668038400&amp;v=beta&amp;t=MIfPVZi1xzUSIMvIQ0mPFqoY2-rpAOCIQQvbkfmkhTc" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Analista de Redes y Seguridad</span>
+				<span class="job_info">Michael Page <span>&bull;</span> Lima-Remoto
+					<span>&bull;</span>TBD</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	
+	<a href="https://buildsoft.hiringroom.com/jobs/get_vacancy/62db35f997707f662d05bc4a?source=linkedinjobs" target="_blank">
+		<li class="listing ">
+			<div class="image_wrapper">
+				<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGsp9QW-YGmlQ/company-logo_100_100/0/1569343744723?e=1668038400&amp;v=beta&amp;t=3YLU6focmALpg9iPv8faEiDRFBnlBWmbh5_l8V-5e7c" alt="twitter" />
+			</div>
+			<div class="info">
+				<span class="job_title">Gestor de Proyectos de Redes y Seguridad</span>
+				<span class="job_info">BuildSoft <span>&bull;</span> Lima
+					<span>&bull;</span>TBD</span>
+			</div>
+			<span class="apply">Aplicar</span>
+		</li>
+	</a>
+	 
+</ul>
+
+<p><br /></p>
+
+<h2 id="-certificaciones-relacionadas"><i class="fa fa-certificate fa-2"></i> Certificaciones Relacionadas</h2>
+
+<div class="cards">
+	 
+
+	<article class="information card">
+		<h2 class="title">CCNA</h2>
+		<p class="desc">Cisco Certified Network Associate</p>
+		<span class="tag">$ 350</span>
+		<span class="button">
+			<a href="https://cisco.com" target="_blank">Ver más</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+
+	<article class="information card">
+		<h2 class="title">CompTIA Network+</h2>
+		<p class="desc">Cisco Certified Network Associate</p>
+		<span class="tag">$ 196</span>
+		<span class="button">
+			<a href="https://www.comptia.org/certifications/network" target="_blank">Ver más</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+
+	<article class="information card">
+		<h2 class="title">Fortinet NSE4</h2>
+		<p class="desc">Fortinet Network Security Expert 4</p>
+		<span class="tag">$ 400</span>
+		<span class="button">
+			<a href="https://training.fortinet.com/local/staticpage/view.php?page=nse_4" target="_blank">Ver más</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+
+	<article class="information card">
+		<h2 class="title">Palo Alto PCNSE</h2>
+		<p class="desc">Palo Alto Networks Certified Network Security Engineer (PCNSE)</p>
+		<span class="tag">$ 160</span>
+		<span class="button">
+			<a href="https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-engineer" target="_blank">Ver más</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	
+
+	<article class="information card">
+		<h2 class="title">Checkpoint CCSA</h2>
+		<p class="desc">Certifícate en Check Point Certified Administrator (CCSA)</p>
+		<span class="tag">$ 160</span>
+		<span class="button">
+			<a href="https://training-certifications.checkpoint.com/#/courses/Security%20Administration%20R81.1%20(CCSA)" target="_blank">Ver más</a>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</span>
+	</article>
+	  
+</div>
+
+:ET
