@@ -3,9 +3,19 @@
   description: Cisco Certified Network Associate
   link: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
 
+- title: CCNA Security
+  price: $ 300
+  description: Cisco Certified Network Associate
+  link: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+
+- title: CCNP
+  price: $ 300
+  description: Cisco Certified Network Associate
+  link: https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+
 - title: CompTIA Network+
   price: $ 196
-  description: Cisco Certified Network Associate
+  description: CompTIA Network+
   link: https://www.comptia.org/certifications/network
   premium: no
 
