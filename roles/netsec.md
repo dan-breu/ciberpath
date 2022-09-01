@@ -13,9 +13,9 @@ El ingeniero de Ciberseguridad de red es uno de los miembros vitales de cualquie
 Los ingenieros de Ciberseguridad de red generalmente están involucrados en el aspecto de seguridad del sistema de redes. Proteger la red de la organización de acuerdo con las metas u objetivos del negocio. 👊 [¿Quieres Aportar, Únete a nuestro grupo en Discord?](https://discord.gg/ktEFVebv6n){:target="\_blank"}
 
 Nivel de profundización:
-Básico <i class="fa fa-flag basic"></i>
-Intermedio <i class="fa fa-flag intermediate"></i>
-Avanzando <i class="fa fa-flag advanced"></i>
+<i class="fa fa-flag basic"></i><span style="color: #6FB742">Básico</span>
+<i class="fa fa-flag intermediate"></i><span style="color: #EDBE16">Intermedio</span>
+<i class="fa fa-flag advanced"></i><span style="color: #FA221D">Avanzando</span>
 
 ## <i class="fa fa-map-marker fa-2"></i> Ruta
 

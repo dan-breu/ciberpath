@@ -7,4 +7,4 @@ path: sponsors
 
 # Patrocinadores
 
-Sponsors
+Pronto novedades para ayudar a desarrollar el proyecto. Si tienes alguna idea, puedes comunicarte por medio del nuestro canal en Discord.

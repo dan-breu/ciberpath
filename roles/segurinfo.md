@@ -11,9 +11,9 @@ path: segurinfo
 El rol de ingeniero de Seguridad de la Información tiene responsabilidades esenciales en la identificación de problemas de seguridad en los sistemas de información de la organización, así como el establecimiento de políticas y buenas practicas de seguridad. También se encarga de realizar educación y concientización sobre los riesgos del ciber-espacio y brindan asistencia ante un incidentes de seguridad. Los especialistas en seguridad de la información utilizan diversos marcos de trabajo para la implementación de cumplimiento regulatorio. 👊 [¿Quieres Aportar, Únete a nuestro grupo en Discord?](https://discord.gg/ktEFVebv6n){:target="\_blank"}
 
 Nivel de profundización:
-Básico <i class="fa fa-flag basic"></i>
-Intermedio <i class="fa fa-flag intermediate"></i>
-Avanzando <i class="fa fa-flag advanced"></i>
+<i class="fa fa-flag basic"></i><span style="color: #6FB742">Básico</span>
+<i class="fa fa-flag intermediate"></i><span style="color: #EDBE16">Intermedio</span>
+<i class="fa fa-flag advanced"></i><span style="color: #FA221D">Avanzando</span>
 
 ## <i class="fa fa-map-marker fa-2"></i> Ruta
 
