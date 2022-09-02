@@ -1,14 +1,14 @@
 ---
 layout: role
-title: Ingeniero en Seguridad de la Información
+title: Especialista en Seguridad de la Información
 description: 'Descripción del rol'
 permalink: /roles/segurinfo
 path: segurinfo
 ---
 
-# 🎓 Ingeniero en Seguridad de la Información
+# 🎓 Especialista en Seguridad de la Información
 
-El rol de ingeniero de Seguridad de la Información tiene responsabilidades esenciales en la identificación de problemas de seguridad en los sistemas de información de la organización, así como el establecimiento de políticas y buenas practicas de seguridad. También se encarga de realizar educación y concientización sobre los riesgos del ciber-espacio y brindan asistencia ante un incidentes de seguridad. Los especialistas en seguridad de la información utilizan diversos marcos de trabajo para la implementación de cumplimiento regulatorio. 👊 [¿Quieres Aportar, Únete a nuestro grupo en Discord?](https://discord.gg/ktEFVebv6n){:target="\_blank"}
+El rol de especialista en Seguridad de la Información tiene responsabilidades esenciales en la identificación de problemas de seguridad en los sistemas de información de la organización, así como el establecimiento de políticas y buenas practicas de seguridad. También se encarga de realizar educación y concientización sobre los riesgos del ciber-espacio y brindan asistencia ante un incidentes de seguridad. Los especialistas en seguridad de la información utilizan diversos marcos de trabajo para la implementación de cumplimiento regulatorio. 👊 [¿Quieres Aportar, Únete a nuestro grupo en Discord?](https://discord.gg/ktEFVebv6n){:target="\_blank"}
 
 Nivel de profundización:
 <i class="fa fa-flag basic"></i><span style="color: #6FB742">Básico</span>
@@ -57,6 +57,10 @@ Nivel de profundización:
 
 {% include segurinfo/segurinfo-forensic.html %}
 
+<!-- Incident Response -->
+
+{% include segurinfo/segurinfo-incident-response.html %}
+
 <!-- audit -->
 
 {% include segurinfo/segurinfo-audit.html %}
@@ -64,6 +68,14 @@ Nivel de profundización:
 <!-- standards & frameworks -->
 
 {% include segurinfo/segurinfo-standards-frameworks.html %}
+
+<!-- Policy & Procedures-->
+
+{% include segurinfo/segurinfo-policy-procedures.html %}
+
+<!-- Risk Management -->
+
+{% include segurinfo/segurinfo-risk-mgmt.html %}
 
 </section>
 

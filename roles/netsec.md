@@ -1,16 +1,16 @@
 ---
 layout: role
-title: Ingeniero en Ciberseguridad de Red
+title: Especialista en Ciberseguridad de Red
 description: 'Descripción del rol'
 permalink: /roles/netsec
 path: netsec
 ---
 
-# 🎓 Ingeniero de Ciberseguridad de Red
+# 🎓 Especialista en Ciberseguridad de Red
 
-El ingeniero de Ciberseguridad de red es uno de los miembros vitales de cualquier organización. Es un profesional que participa en el posicionamiento, la configuración, el aprovisionamiento y la administración de varias piezas de hardware y software relacionados con la red y la seguridad.
+El Especialista en Ciberseguridad de red es uno de los miembros vitales de cualquier organización. Es un profesional que participa en el posicionamiento, la configuración, el aprovisionamiento y la administración de varias piezas de hardware y software relacionados con la red y la seguridad.
 
-Los ingenieros de Ciberseguridad de red generalmente están involucrados en el aspecto de seguridad del sistema de redes. Proteger la red de la organización de acuerdo con las metas u objetivos del negocio. 👊 [¿Quieres Aportar, Únete a nuestro grupo en Discord?](https://discord.gg/ktEFVebv6n){:target="\_blank"}
+Los Especialistas en Ciberseguridad de red generalmente están involucrados en el aspecto de seguridad del sistema de redes. Proteger la red de la organización de acuerdo con las metas u objetivos del negocio. 👊 [¿Quieres Aportar, Únete a nuestro grupo en Discord?](https://discord.gg/ktEFVebv6n){:target="\_blank"}
 
 Nivel de profundización:
 <i class="fa fa-flag basic"></i><span style="color: #6FB742">Básico</span>
