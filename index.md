@@ -18,6 +18,10 @@ Las rutas son creadas, revisadas y validadas por **profesionales** con mucha exp
 
 {% include recent-roles.html %}
 
+## Encuesta!
+
+<iframe src="https://www.polltab.com/embed/b6OFV_mNO1k" style="width:600px;height:815px;border:0;"></iframe>
+
 ### Distribuido bajo Licenciamiento
 
 [MIT license](https://opensource.org/licenses/MIT){:target="\_blank"}.
